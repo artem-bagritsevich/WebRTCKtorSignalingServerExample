@@ -7,7 +7,7 @@ Here is signaling server for p2p connection written in Kotlin with Ktor framewor
 **This is just example created in educational purpose, so don't use this code in production!**
 
 **How to run:**
- - To run the server open app the code in Intellij Idea and run main function inside Application class.
+ - To run the server, open the code in Intellij Idea and run main function inside Application class.
  
 **How to test:**
- - To run test client fun main dunction inside test client object.
+ - To run test client run main function inside the test client object.
